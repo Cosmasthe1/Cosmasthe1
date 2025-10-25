@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Edu AI Agent](https://github.com/Cosmasthe1/edu-ai-agent)
 
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on [Digi Twins](https://github.com/Cosmasthe1/Digi-Twins)
 
@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://cosmas-nduva-resume.tiiny.site](https://cosmas-nduva-resume.tiiny.site)
 
-- ⚡ Fun fact **Why do Java developers wear glasses? Because they don’t C#! 😎**
+- ⚡ Fun fact **Why do JavaScript developers have a hard time dating?
+Because they can’t handle promises… 💔📜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
