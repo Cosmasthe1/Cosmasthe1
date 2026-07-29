@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cosmasnduva99@gmail.com**
 
-- 📄 Know about my experiences [https://cosmas-nduva-resume.tiiny.site](https://cosmas-nduva-resume.tiiny.site)
+- 📄 Know about my experiences (https://cosmasthe1.github.io/cosmasnduva-resume/)
 
 - ⚡ Fun fact **Why do JavaScript developers have a hard time dating?
 Because they can’t handle promises… 💔📜**
